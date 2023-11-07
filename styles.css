@@ -1,0 +1,51 @@
+#container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: centre;
+    
+}
+form{
+    margin-bottom: 20px;
+}
+#task{
+    width:80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing:border-box;
+}
+button{
+    width: 25%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 8px 8px;
+    border: none;
+    cursor: pointer;
+    font-style: italic;
+    border-radius: 20px
+    
+}
+ul {
+list-style:none; 
+}
+li{
+    background-color: pink;
+    padding: 10px ;
+    margin-bottom: 10px;
+    width: 60%;
+
+
+
+
+
+}
+.done{
+    text-decoration:line-through;
+}
+
+    body{
+        background-image: url(pexels\ todo.webp);
+        background-size: cover;
+        background-position: center;
+    }
+
